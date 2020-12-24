@@ -4,3 +4,6 @@
 # [Amazon]
 127.0.0.1 amazon.fr
 127.0.0.1 primevideo.com
+
+# [1001cocktails.com]
+127.0.0.1 1001cocktails.com

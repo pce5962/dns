@@ -7,3 +7,6 @@
 
 # [1001cocktails.com]
 127.0.0.1 1001cocktails.com
+
+# [enedisgateway.tech]
+127.0.0.1 enedisgateway.tech

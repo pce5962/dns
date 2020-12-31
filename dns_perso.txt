@@ -10,3 +10,6 @@
 
 # [enedisgateway.tech]
 127.0.0.1 enedisgateway.tech
+
+# [vivinter.fr]
+127.0.0.1 vivinter.fr

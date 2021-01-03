@@ -13,3 +13,6 @@
 
 # [vivinter.fr]
 127.0.0.1 vivinter.fr
+
+# [zalando.fr]
+127.0.0.1 zalando.fr

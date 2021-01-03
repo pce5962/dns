@@ -16,3 +16,6 @@
 
 # [zalando.fr]
 127.0.0.1 zalando.fr
+
+# [DIVERS]
+127.0.0.1 clickserve.dartsearch.net

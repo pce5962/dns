@@ -17,5 +17,8 @@
 # [zalando.fr]
 127.0.0.1 zalando.fr
 
-# [DIVERS]
+# [PSN]
+127.0.0.1 ca.account.sony.com
+
+# [DIVERS] 
 127.0.0.1 clickserve.dartsearch.net

@@ -24,3 +24,4 @@
 
 # [DIVERS] 
 127.0.0.1 clickserve.dartsearch.net
+127.0.0.1 ad.doubleclick.net

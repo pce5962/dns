@@ -1,6 +1,9 @@
 127.0.0.1  localhost
 ::1  localhost
 
+#[Perso]
+127.0.0.1 pce5962ha.duckdns.org
+
 # [Amazon]
 127.0.0.1 amazon.fr
 127.0.0.1 primevideo.com
